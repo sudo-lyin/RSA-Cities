@@ -24,7 +24,7 @@ This repository contains a complete SQL Server script for setting up a normalize
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/sudo-lyin/RSA-Cities
+   git clone [https://github.com/sudo-lyin/RSA-Cities](https://github.com/sudo-lyin/rsa-cities-database)
    cd rsa-cities-database
    ```
 
